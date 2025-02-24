@@ -23,6 +23,9 @@ a{
     padding-inline: 30px;
     height: 70px;
 }
+.nav-btn-login{
+    padding-inline-end: 20px;
+}
 .navbar img{
     height: 55px;
     display: flex;
