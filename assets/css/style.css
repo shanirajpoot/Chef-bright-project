@@ -27,7 +27,7 @@ a{
     height: 55px;
     display: flex;
     justify-content: flex-start;
-    padding-inline-start: 18px;
+    padding-inline-start: 30px;
 }
 .navlinks{
     display: flex;
