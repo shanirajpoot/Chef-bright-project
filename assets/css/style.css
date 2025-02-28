@@ -1446,6 +1446,7 @@ border: 1px solid #E53935;
 border-radius: 7px;
 padding-inline: 10px;
 padding-block: 15px;
+outline: 0;
 }
 .cinputsbl textarea{
     color: #fff;
@@ -1453,6 +1454,7 @@ padding-block: 15px;
 border-radius: 7px;
 padding: 10px;
 height: 140px;
+outline: 0;
 }
 .cinputsbl button{
   max-width: 127px;
@@ -1720,7 +1722,7 @@ gap: 8px;
     justify-content: center;
     padding-inline: 15px;
     gap: 10px; 
-    
+
 }
 .passinputlogin{
     position: relative;
