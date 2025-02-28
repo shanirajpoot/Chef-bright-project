@@ -1670,6 +1670,7 @@ flex-direction: column;
 .maininputslogin input{
 height: 35px;
 outline: 0;
+color: #ffffff;
 width: -webkit-fill-available;
 border: 2px solid #E53935;
 border-radius: 8px;
