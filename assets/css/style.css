@@ -660,25 +660,12 @@ text-decoration: none;
     background: linear-gradient(90deg, rgba(23, 23, 24, 0.1) 0%, rgba(23, 23, 24, 0) 100%);
     backdrop-filter: blur(10px);
 }
-.chef1fc:hover{
+.chef1fc:hover, .chef2fc:hover, .chef3fc:hover, .chef4fc:hover{
     border: 2px solid #E53935;
     transition: border 0.3s ease;
     border-radius: 20%;
-}
-.chef2fc:hover{
-    border: 2px solid #E53935;
-    transition: border 0.3s ease;
-    border-radius: 20%;
-}
-.chef3fc:hover{
-    border: 2px solid #E53935;
-    transition: border 0.3s ease;
-    border-radius: 20%;
-}
-.chef4fc:hover{
-    border: 2px solid #E53935;
-    transition: border 0.3s ease;
-    border-radius: 20%;
+    cursor: pointer;
+
 }
 .cpicfc img{
     width: 140px;
@@ -739,6 +726,7 @@ border: 1px solid #E53935;
 .number1fc:hover{
     background-color: #E53935;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 
