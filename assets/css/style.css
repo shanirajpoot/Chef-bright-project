@@ -1594,7 +1594,7 @@ padding: 15px 1px;
     border-right: none; 
     border-radius: 5px 0 0 5px; 
     outline: none; 
-    
+    color: #E53935;
 }
 .subscribe-button {
     color:white;
